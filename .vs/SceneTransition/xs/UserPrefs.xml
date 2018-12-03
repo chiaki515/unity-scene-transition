@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{72C3791D-D009-FC6A-12DF-B100D0B63B33}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/StageSelectManager.cs">
+    <Files>
+      <File FileName="Assets/Scenes/SceneController.cs" Line="13" Column="38" />
+      <File FileName="Assets/Scenes/StageSelectManager.cs" Line="40" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
